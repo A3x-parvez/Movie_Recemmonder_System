@@ -42,7 +42,7 @@ movies = pd.DataFrame(movies_dict)
 similarity = pickle.load(open('similarity.pkl','rb'))
 
 # st.header('Movie Recommender System')
-st.markdown("""<span style =" color : #ff5c33; font-weight: bold; font-size: 49px;">Movie Recommender System</span>""", unsafe_allow_html=True)
+st.markdown("""<span style =" color : red; font-weight: bold; font-size: 49px;">Movie Recommender System</span>""", unsafe_allow_html=True)
 st.markdown(
     """<span style ="font-size: 18px;
         font-weight: bold;
