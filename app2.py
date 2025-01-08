@@ -47,7 +47,6 @@ st.markdown(
     """<span style ="font-size: 18px;
         font-weight: bold;
         color: #ff5c33; 
-        font-family: 'Arial', sans-serif;
         margin-bottom: -20px; ">Select the Movie </span>""",
     unsafe_allow_html=True)
 selected_movie_name =st.selectbox(
