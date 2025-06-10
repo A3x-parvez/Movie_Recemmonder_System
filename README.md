@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-`Movie Recommender System is a Streamlit application that suggests movies to users based on their preferences. By leveraging machine learning techniques, this system analyzes movie data to provide personalized recommendations tailored to individual tastes.`
+**Movie Recommender System is a Streamlit application that suggests movies to users based on their preferences. By leveraging machine learning techniques, this system analyzes movie data to provide personalized recommendations tailored to individual tastes.**
 
 ---
 
@@ -94,16 +94,16 @@ Movie_Recommender_System/
 │      └── movie_recommended_system.ipynb      # Main Jupyter notebook used for building and training the model
 │
 │
-├── venv/ # Python virtual environment (do not track)
+├── venv/                             # Python virtual environment (do not track)
 │
-├── app2.py # Main application script (Flask or Streamlit)
-├── movie_dict.pkl # Dictionary of movies used for UI display
-├── movies.pkl # Movie metadata used for recommendation
-├── similarity.pkl # Precomputed cosine similarity matrix
-├── Movie_poster.jpg # Thumbnail/preview image
-├── requirments.txt # List of dependencies
-├── README.md # Project documentation
-└── .gitattributes # Git metadata
+├── app2.py                           # Main application script (Flask or Streamlit)
+├── movie_dict.pkl                    # Dictionary of movies used for UI display
+├── movies.pkl                        # Movie metadata used for recommendation
+├── similarity.pkl                    # Precomputed cosine similarity matrix
+├── Movie_poster.jpg                  # Thumbnail/preview image
+├── requirments.txt                   # List of dependencies
+├── README.md                         # Project documentation
+└── .gitattributes                    # Git metadata
 
 ```
 ---
