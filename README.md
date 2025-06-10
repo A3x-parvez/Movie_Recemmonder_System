@@ -25,12 +25,6 @@ Try the Movie Recommender System live at: [Live Demo](https://your-live-demo-lin
 
 ---
 
-## 🖼️ Screenshots
-> UI preview 
-
-![Screenshot](static/screenshots/demo.png)
-
----
 
 ## 🛠️ Setup and Installation
 
@@ -71,3 +65,55 @@ Try the Movie Recommender System live at: [Live Demo](https://your-live-demo-lin
 ---
 
 ## 📁 Project Structure
+```
+Movie_Recemmonder_System/
+│
+├── app2.py                # Main Streamlit application file
+├── movies.pkl             # Dataset of movies used for recommendations
+├── movie_dict.pkl         # Dictionary mapping movie titles to their respective data
+├── similarity.pkl         # Similarity matrix for the movies
+├── requirements.txt       # Lists the dependencies required to run the application
+├── Movie_poster.jpg       # Sample movie poster image used in the application
+└── README.md              # Project documentation
+```
+
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please open issues or submit pull requests for improvements or bug fixes.
+
+---
+
+## 👤 About Me
+
+Hi! I’m **Parvez**, a passionate AI and ML enthusiast and software developer.  
+I love building innovative projects that blend deep learning with practical applications.  
+Feel free to explore my work, reach out, or collaborate on exciting ideas!
+
+---
+
+## 🌐 Social Media
+
+Connect with me on:  
+
+[![GitHub](https://img.shields.io/badge/GitHub-@A3x--parvez-181717?style=flat&logo=github)](https://github.com/A3x-parvez)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rijwanool_karim-blue?style=flat&logo=linkedin)](https://linkedin.com/in/rijwanool-karim/)  
+
+---
+
+## 📧 Contact / Support
+
+If you have any questions or want to get in touch:
+
+- GitHub : [A3x-parvez](https://github.com/A3x-parvez)  
+- Email : rijwanoolkarim143r@gmail.com
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
